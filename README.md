@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently  a Front-End web developer <br>👯 I’m looking to collaborate on an open-sourced Project on Web<br>🤝 I’m looking for help with React.Js<br>🌱 I’m currently learning backend Development <br>💬 Ask me about Front end Dev<br>
+🔭 I’m currently  a Full-Stack MERN web developer <br>👯 I’m looking to collaborate on an open-sourced Project on Web<br>🤝 I’m looking for help with React.Js<br>🌱 I’m currently learning backend Development <br>💬 Ask me about MERN/PERN Stack Dev<br>
 
 
 ## 🌐 Socials:
